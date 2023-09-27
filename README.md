@@ -5,7 +5,7 @@
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-corporate-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-corporate-ui-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
 _Frontend version_: Corporate UI Dashboard PRO v1.0.0. More info at https://demos.creative-tim.com/corporate-ui-dashboard-pro/pages/dashboards/default.html?ref=readme-cudp
-[ <img src="public/assets/img/thumbnail-pro.jpg" width="100%" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/)
+[ <img src="assets/img/thumbnail-pro.jpg" width="100%" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/)
 
 Introducing Corporate UI Dashboard PRO Laravel, [Creative Tim](https://creative-tim.com/)'s newest Admin Template designed specifically for professional websites. Using our template, your web app pages will look excellent on all devices and perform flawlessly for a top-notch experience and happy customers.
 
@@ -83,7 +83,7 @@ Besides the dashboard, the auth pages, the billing and tables pages, it has also
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/?ref=sudl-readme)
 | HTML | Laravel |
 | --- | --- |
-| [![HTML](https://s3.amazonaws.com/creativetim_bucket/products/727/original/corporate-ui-dashboard-pro.jpg?1678117894")](https://www.creative-tim.com/product/corporate-ui-dashboard-pro) | [![Laravel](public/assets/img/thumbnail-pro.jpg)](https://www.creative-tim.com/product/corporate-ui-dashboard-pro-laravel)  | 
+| [![HTML](https://s3.amazonaws.com/creativetim_bucket/products/727/original/corporate-ui-dashboard-pro.jpg?1678117894")](https://www.creative-tim.com/product/corporate-ui-dashboard-pro) | [![Laravel](assets/img/thumbnail-pro.jpg)](https://www.creative-tim.com/product/corporate-ui-dashboard-pro-laravel)  | 
 
 
 ## Demo
