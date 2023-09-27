@@ -1,13 +1,13 @@
-# [Corporate UI Dashboard PRO](https://corporate-ui-dashboard-pro-laravel.creative-tim.com)
+# [Corporate UI Dashboard PRO Laravel](https://corporate-ui-dashboard-pro-laravel.creative-tim.com)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-corporate-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-corporate-ui-dashboard-pro/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-corporate-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-corporate-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-corporate-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-corporate-ui-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-corporate-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-corporate-ui-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
-_Frontend version_: Corporate UI Dashboard PRO Laravel v1.0.0. More info at https://www.creative-tim.com/product/corporate-ui-dashboard-pro-laravel
-[ <img src="https://s3.amazonaws.com/creativetim_bucket/products/727/original/corporate-ui-dashboard-pro.jpg?1678117894" width="100%" />](https://corporate-ui-dashboard-pro-tall.creative-tim.com/)
+_Frontend version_: Corporate UI Dashboard PRO v1.0.0. More info at https://demos.creative-tim.com/corporate-ui-dashboard-pro/pages/dashboards/default.html?ref=readme-cudp
+[ <img src="public/assets/img/thumbnail-pro.jpg" width="100%" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/)
 
-Introducing Corporate UI Dashboard PRO, [Creative Tim](https://creative-tim.com/)'s newest Admin Template designed specifically for professional websites. Using our template, your web app pages will look excellent on all devices and perform flawlessly for a top-notch experience and happy customers.
+Introducing Corporate UI Dashboard PRO Laravel, [Creative Tim](https://creative-tim.com/)'s newest Admin Template designed specifically for professional websites. Using our template, your web app pages will look excellent on all devices and perform flawlessly for a top-notch experience and happy customers.
 
 Corporate UI Dashboard PRO is based on Bootstrap 5 and is made of hundred of elements, designed blocks, and fully coded pages. You can easily customize your projects to match your brand identity and specific needs.
 
@@ -47,7 +47,7 @@ If you don't already have an Apache local environment with PHP and MySQL, use on
 -   Mac: https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac/
 
 Also, you will need to install Composer: https://getcomposer.org/doc/00-intro.md  
-And Laravel: https://laravel.com/docs/9.x/installation
+And Laravel: https://laravel.com/docs/10.x
 
 ## Installation
 
@@ -79,11 +79,12 @@ Besides the dashboard, the auth pages, the billing and tables pages, it has also
 
 ## Versions
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/corporate-ui-dashboard-pro?ref=readme-cudp)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://demos.creative-tim.com/corporate-ui-dashboard-pro/pages/dashboards/default.html?ref=readme-cudp)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/?ref=sudl-readme)
+| HTML | Laravel |
+| --- | --- |
+| [![HTML](https://s3.amazonaws.com/creativetim_bucket/products/727/original/corporate-ui-dashboard-pro.jpg?1678117894")](https://www.creative-tim.com/product/corporate-ui-dashboard-pro) | [![Laravel](public/assets/img/thumbnail-pro.jpg)](https://www.creative-tim.com/product/corporate-ui-dashboard-pro-laravel)  | 
 
-| HTML                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Corporate UI Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/727/original/corporate-ui-dashboard-pro.jpg?1678117894)](http://demos.creative-tim.com/corporate-ui-dashboard-pro/pages/dashboards/default.html?ref=readme-cudp) |
 
 ## Demo
 
@@ -93,15 +94,15 @@ Besides the dashboard, the auth pages, the billing and tables pages, it has also
 
 | Reset Password Page                                                                                                           | User Profile                                                                                                                                        | User Management                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="screenshots/reset-password.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/login) | [<img src="screenshots/user-profile.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/laravel-examples/user-profile) | [<img src="screenshots/user-management.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/laravel-examples/user-management) |
+| [<img src="screenshots/reset-password.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/login) | [<img src="screenshots/user-profile.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/laravel-examples/user-profile) | [<img src="screenshots/user-management.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/laravel-examples/users-management) |
 
 | Role Management                                                                                                                                           | Category Management                                                                                                                                               | Tag Management                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [<img src="screenshots/role-management.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/laravel-examples/role-management) | [<img src="screenshots/category-management.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/laravel-examples/category-management) | [<img src="screenshots/tag-management.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/laravel-examples/tag-management) |
 
-| Item Management                                                                                                                                           | Dashboard                                                                                                                  | Virtual Reality                                                                                                                             |
+| Item Management                                                                                                                                           | Dashboard                                                                                                                  | Automotive                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="screenshots/item-management.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/laravel-examples/item-management) | [<img src="screenshots/dashboard.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/default) | [<img src="screenshots/automotive.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/dashboard/vr/automotive) |
+| [<img src="screenshots/item-management.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/laravel-examples/item-management) | [<img src="screenshots/dashboard.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/dashboard) | [<img src="screenshots/automotive.png" width="322" />](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/automotive) |
 
 [View More](https://corporate-ui-dashboard-pro-laravel.creative-tim.com/dashboard)
 
@@ -522,7 +523,7 @@ public function store(Request $request)
 
 We use GitHub Issues as the official bug tracker for the Corporate UI Dashboard PRO Laravel. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Corporate UI Dashboard PRO Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/corporate-ui-dashboard-pro).
+1. Make sure that you are using the latest version of the Corporate UI Dashboard PRO Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/corporate-ui-dashboard-pro-laravel).
 2. Providing us reproductible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying the browser you encountered the issue on might help.
 
