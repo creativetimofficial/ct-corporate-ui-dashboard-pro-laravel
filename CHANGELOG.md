@@ -16,3 +16,7 @@ All notable changes to `Corporate UI Dashboard PRO Laravel` will be documented i
 -   Tag CRUD
 -   Item CRUD
 -   User roles & access restrictions
+
+## [1.1.0]
+
+### Update to Laravel 11.x
